@@ -1,0 +1,7 @@
+/.latexmk
+/TaDA-submission
+/code
+/project-notes
+/indent.log
+
+.DS_Store
